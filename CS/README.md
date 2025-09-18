@@ -9,9 +9,9 @@ Your Feedback is always welcome and helps me keep building better hacks.
 
 ---
 
-# NBA Jam Tournament Edition (SRAM) - ROM Hack for Sega Mega Drive
+# College Slam (SRAM) - ROM Hack for Sega Mega Drive
 
-This hack converts the save system from EEPROM to SRAM and fixes an issue where the SEGA logo outline was using an incorrect palette value
+This hack converts the save system from EEPROM to SRAM, disabled the region lock and fixes an issue where the SEGA logo outline was using an incorrect palette value
 
 ---
 
