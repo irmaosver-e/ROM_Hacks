@@ -17,10 +17,10 @@ This hack converts the save system from EEPROM to SRAM, disabled the region lock
 
 ## 📄 ROM Information
 
-- **ROM:** *NBA Jam Tournament Edition (W) (REV01)*
-- **CRC32:** `6e25ebf0`
-- **MD5:** `4d3391ee6f3df2b3a77d687db868764b`
-- **SHA-1:** `0f5bb5d5352fe2ebe4b4051a1dd9b9fde4b505ab`
+- **ROM:** *College Slam (U)*
+- **CRC32:** `96A42431`
+- **MD5:** `????`
+- **SHA-1:** `0DBBE740B14077FE8648955F7E17965EA25F382A`
 
 Apply the patch using this tool:  
 👉 https://www.romhacking.net/patch/
