@@ -19,7 +19,7 @@ This hack converts the save system from EEPROM to SRAM, disabled the region lock
 
 - **ROM:** *College Slam (U)*
 - **CRC32:** `96A42431`
-- **MD5:** `????`
+- **MD5:** `5481F0CBAB22CA071DAD31DD3CA4F884`
 - **SHA-1:** `0DBBE740B14077FE8648955F7E17965EA25F382A`
 
 Apply the patch using this tool:  
