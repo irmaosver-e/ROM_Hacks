@@ -11,7 +11,7 @@ Feedback is always welcome and helps me keep building better hacks.
 
 # Skitchin' Geared Up Edition
 
-This hack adds a robust save system, Non-intrusive 6-button support, Skippable intro and improved menu navegation.
+This hack adds a robust save system, Non-intrusive 6-button support, Skippable intro and improved menu navigation.
 
 ---
 
@@ -23,10 +23,10 @@ With the ultimate cheat enabled pressing the weapon select button or down + weap
 
 6-Button Controller
 
-X: left weapon
-Y: Mid weapon
-Z: Right weapon
-Mode: Accel (allows for jumping while accelerating)
+- X: left weapon
+- Y: Mid weapon
+- Z: Right weapon
+- Mode: Accel (allows for jumping while accelerating)
 
 ### 💾 Save System
 accessible via the password screen
