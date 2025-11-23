@@ -52,6 +52,13 @@
 </h1>
 </br>
 
+<h1>Skitchin' Geared Up Edition
+<a href="https://irmaosver-ehotmailcom.itch.io/skitchin-geared-up-edition/purchase">
+<img src="https://img.shields.io/badge/Download_on_Itch.Io-fa5c5c" width="215" />
+</a>
+</h1>
+</br>
+
 Feedback is always welcome and helps me keep building better hacks.
 
 ---
