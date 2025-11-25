@@ -40,7 +40,7 @@ accessible via the password screen
 
 ## 📺 Demo Video
 
-🎬 [Watch it in action on YouTube](https://youtu.be/Vgs0xl58m5o)
+🎬 [Watch it in action on YouTube](https://youtu.be/heMR-ceHakc)
 
 ---
 
